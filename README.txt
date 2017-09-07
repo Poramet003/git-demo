@@ -1,1 +1,1 @@
-This is a readme file for stamp & snow website 
+hello from Github
